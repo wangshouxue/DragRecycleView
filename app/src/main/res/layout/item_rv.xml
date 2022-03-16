@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:layout_height="45dp"
+    android:layout_margin="10dp"
+    android:background="@color/purple_500"
+    android:textColor="@color/white"
+    android:textSize="20sp"
+    android:gravity="center"
+    android:id="@+id/tv">
+
+</androidx.appcompat.widget.AppCompatTextView>
